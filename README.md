@@ -6,6 +6,8 @@ The repositery consists of one producer file and 5 consumer files each has a spe
 
 
 I used spark version: 3.3.2 
+python version : 3.8 
+since the kafka package don't support versions after 3.8 at the moment
 
 to run the files we need to 
 1- run zookeeper by 
